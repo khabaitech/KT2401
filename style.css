@@ -374,12 +374,12 @@ section .title::after{
 .skills-content .right .Js::before{
     width: 40%;
 }
-/* .skills-content .right .php::before{
+.skills-content .right .php::before{
     width: 50%;
 }
 .skills-content .right .mysql::before{
     width: 70%;
-} */
+}
 
 /* teams section styling */
 .teams .title::after{
